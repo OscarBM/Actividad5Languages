@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Languages</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="description">The text of this application changes language depending on the language in which your phone is configured. You can change it between Spanish. English and Portuguese</string>
+</resources>

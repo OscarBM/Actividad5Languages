@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">Mi Aplicación</string>
+    <string name="hello_world">Hola Mundo!</string>
+    <string name="description">El texto de esta aplicaciòn cambia de lenguaje dependiendo del lenguaje en el que este configurado su telefono. Puede cambiarlo entre español. ingles y portugues</string>
+</resources>
